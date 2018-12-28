@@ -1,0 +1,4 @@
+# PythonForNERCompare
+用于比较NER接口返回值
+
+获取结果，与txt文件中的title比较值并写入csv文件中用于总结
